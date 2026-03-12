@@ -9,6 +9,8 @@ return {
 			json = { "prettier" },
 			markdown = { "prettier" },
 			lua = { "stylua" },
+			verilog = { "verible" },
+			systemverilog = { "verible" },
 		},
 
 		formatters = {
